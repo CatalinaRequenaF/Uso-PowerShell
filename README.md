@@ -1,4 +1,4 @@
-# Primitive-Datatype
+# Power Shell
 
 ### Nota:  
 La información que obtenemos sobre estos cmdlets no está completa debido a que nuestro PowerShell nos tira este error al intentar actualizar la ayuda con `Get-Help`:  
